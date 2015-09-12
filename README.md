@@ -10,7 +10,7 @@ I created this brief website for the first code review of my Intro to Programmin
 
 ## Setup
 
-* Visit http://www.xxxxxx.com to view the page.
+* Visit [http://maxjmuller.github.io/about-max-muller](http://maxjmuller.github.io/about-max-muller) to view the page.
 
 ## Technologies Used
 
