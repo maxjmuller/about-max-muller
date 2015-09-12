@@ -6,11 +6,11 @@
 
 ## Description
 
-I created this brief website for the first code review of my Intro to Programming Class at Epicodus. It demonstrates several key concepts in HTML and CSS while also providing a quick overview of my personal background and interests.
+I created this brief website for the first code review of my Intro to Programming Class at Epicodus. It ain't pretty, but it demonstrates several key concepts in HTML and CSS. It also provides a quick overview of my personal background and interests.
 
 ## Setup
 
-* Visit http://www.xxxxxx.com to view the site.
+* Visit http://www.xxxxxx.com to view the page.
 
 ## Technologies Used
 
