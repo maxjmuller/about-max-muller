@@ -14,8 +14,8 @@ _I created this brief website for the first code review of my Intro to Programmi
 
 ## Technologies Used
 
-*_html_ (note that I looked up how to resize and image in html)
-*_css_
+* _html (extra credit: note that I looked up how to resize an image)_
+* _css_
 
 ### Legal
 
