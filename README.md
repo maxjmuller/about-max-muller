@@ -2,20 +2,20 @@
 
 ##### _Max's first web page, September, 11, 2015_
 
-#### By _Max Muller_
+#### By **_Max Muller_**
 
 ## Description
 
-_I created this brief website for the first code review of my Intro to Programming Class at Epicodus. It demonstrates several key concepts in HTML and CSS while also providing a quick overview of my personal background and interests._
+I created this brief website for the first code review of my Intro to Programming Class at Epicodus. It demonstrates several key concepts in HTML and CSS while also providing a quick overview of my personal background and interests.
 
 ## Setup
 
-* _Visit http://www.xxxxxx.com to view the site._
+* Visit http://www.xxxxxx.com to view the site.
 
 ## Technologies Used
 
-* _html (extra credit: note that I looked up how to resize an image)_
-* _css_
+* HTML _(extra credit: note that I looked up how to resize an image)_
+* CSS
 
 ### Legal
 
